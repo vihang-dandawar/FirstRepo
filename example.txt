@@ -1,2 +1,4 @@
 master branch
 example created on bug-fix branch merge
+
+master branch 2
